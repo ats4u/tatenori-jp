@@ -1,0 +1,9 @@
+---
+title: "quarto-html1"
+---
+
+This is a Quarto website.
+
+Now we could build a website by `quarto`. 
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

@@ -1,11 +1,10 @@
 project:
   type: website
   output-dir: _site
-  # 👇 This part is crucial
-  site-url: "https://ats4u.github.io/tatenori-jp/"
 
 website:
-  title: "quarto-html1"
+  title: "What is Tatenori?"
+  site-url: "https://ats4u.github.io/tatenori-jp/"
   navbar:
     left:
       - href: index.qmd

@@ -6,18 +6,27 @@ website:
   title: "What is Tatenori?"
   site-url: "https://ats4u.github.io/tatenori-jp/"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
-
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Introduction"
+        href: introduction.qmd
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light : [ cosmo, theme.scss ]
+      dark : [ brand, theme-dark.scss ]
     css: styles.css
     toc: true
+    toc-location: right
+    font:
+      text: "Dela Gothic One"
+      
 
 
 

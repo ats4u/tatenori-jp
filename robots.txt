@@ -1,1 +1,1 @@
-Sitemap: https://ats4u.github.io/tatenori-jp/sitemap.xml
+Sitemap: https://tatenori.jp/sitemap.xml

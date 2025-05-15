@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tatenori.jp/test/index2.html</loc>
-    <lastmod>2025-05-14T16:01:56.600Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tatenori.jp/index.html</loc>
-    <lastmod>2025-05-14T16:01:56.600Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tatenori.jp/author.qmd.html</loc>
-    <lastmod>2025-05-14T16:01:56.598Z</lastmod>
+    <loc>https://tatenori.jp/author.html</loc>
+    <lastmod>2025-05-15T01:29:32.287Z</lastmod>
   </url>
   <url>
     <loc>https://tatenori.jp/test/about.html</loc>
-    <lastmod>2025-05-14T16:01:56.600Z</lastmod>
+    <lastmod>2025-05-15T01:29:32.288Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tatenori.jp/index.html</loc>
+    <lastmod>2025-05-15T01:29:32.288Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tatenori.jp/test/index2.html</loc>
+    <lastmod>2025-05-15T01:29:32.288Z</lastmod>
   </url>
 </urlset>
